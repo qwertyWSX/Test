@@ -4,6 +4,7 @@ using namespace std;
 
 class List
 {
+	//asdf
 	struct Node
 	{
 		Node* Next;
